@@ -14,7 +14,7 @@ pip install pyzbar
 pip install tkinter
 
 
-pip install pil
+pip install pillow
 
 
 
