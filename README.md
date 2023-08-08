@@ -1,6 +1,9 @@
 # Qr-Balls
 7 qr code part
+
+
 HOW TO INSTALL :
+
 
 pip install qrcode
 pip install pyzbar 
@@ -8,6 +11,8 @@ pip install tkinter
 pip install pil
 
 TR:
+
+
 QR Kodunu 7 Parçaya Ayırarak Hazine Avlarında Güvenli ve Etkileyici İletişim.
 
 Bu kavramın arkasındaki yenilikçi fikir, bir QR kodunu yedi farklı parçaya bölebilme yeteneğinde yatmaktadır; böylece bilgi paylaşımı için etkileyici ve güvenli bir yol sunar. Bu teknik, hazine avları gibi etkinliklerde, katılımcıların bulmacaları çözerek parçaları toplaması ve QR kodunun içeriğini açığa çıkarması gereken eğlenceli bir şekilde uygulanabilir.
@@ -43,6 +48,8 @@ Bu teknik karmaşık kavramları etkileşimli bir şekilde öğretmek için eği
 Özetle, bir QR kodunu yedi parçaya ayırmak, eğlence ve güvenliği birleştirmek için ilgi çekici bir fırsat sunar. Bu yöntem, hazine avları, kurumsal etkinlikler ve eğitimsel faaliyetler de dahil olmak üzere çeşitli durumlara yenilikçi bir şekilde entegre edilebilir.
 
 EN:
+
+
 Splitting a QR Code into 7 Parts for Secure and Engaging Communication in Treasure Hunts.
 
 The innovative idea behind this concept lies in the ability to divide a QR code into seven distinct fragments, providing a captivating and secure way to share information. This technique can be playfully applied in events like treasure hunts, where participants must solve puzzles to gather the fragments and unveil the QR code's content.
@@ -79,6 +86,8 @@ In essence, splitting a QR code into seven parts provides an intriguing opportun
 
 
 FR:
+
+
 
 Fractionner un QR code en 7 parties pour une communication sécurisée et ludique dans les chasses au trésor.
 
