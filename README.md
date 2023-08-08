@@ -7,11 +7,16 @@ HOW TO INSTALL :
 
 pip install qrcode
 
+
 pip install pyzbar 
+
 
 pip install tkinter
 
+
 pip install pil
+
+
 
 TR:
 
