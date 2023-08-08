@@ -1,6 +1,11 @@
 # Qr-Balls
 7 qr code part
+HOW TO INSTALL :
 
+pip install qrcode
+pip install pyzbar 
+pip install tkinter
+pip install pil
 
 TR:
 QR Kodunu 7 Parçaya Ayırarak Hazine Avlarında Güvenli ve Etkileyici İletişim.
