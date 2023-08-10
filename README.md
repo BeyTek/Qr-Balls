@@ -1,6 +1,5 @@
 # Qr-Balls
-7 qr code part
-
+Splitting a QR Code into 7 Parts
 
 HOW TO INSTALL :
 
